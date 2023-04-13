@@ -163,4 +163,8 @@ dist
 # Ignore code-workspaces
 *.code-workspace
 
+# Ignore build & dist folder
+build
+dist
+
 # End of https://www.toptal.com/developers/gitignore/api/node,visualstudiocode
